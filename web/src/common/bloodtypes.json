@@ -1,0 +1,11 @@
+[
+    { "value": null,    "text": "Lütfen Kan Grubunuzu Seçiniz."},
+    { "value": "0P",    "text": "0 Rh +"                       },
+    { "value": "0N",    "text": "0 Rh -"                       },
+    { "value": "AP",    "text": "A Rh +"                       },
+    { "value": "AN",    "text": "A Rh -"                       },
+    { "value": "BP",    "text": "B Rh +"                       },
+    { "value": "BN",    "text": "B Rh -"                       },
+    { "value": "ABP",   "text": "AB Rh +"                      },
+    { "value": "ABN",   "text": "AB Rh -"                      }
+]
